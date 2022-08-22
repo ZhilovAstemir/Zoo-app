@@ -1,0 +1,6 @@
+D:\Eboba\ZooApp\Program.tests\bin\Debug\net6.0\CoverletSourceRootsMapping
+D:\Eboba\ZooApp\Program.tests\obj\Debug\net6.0\Program.tests.csproj.AssemblyReference.cache
+D:\Eboba\ZooApp\Program.tests\obj\Debug\net6.0\Program.tests.GeneratedMSBuildEditorConfig.editorconfig
+D:\Eboba\ZooApp\Program.tests\obj\Debug\net6.0\Program.tests.AssemblyInfoInputs.cache
+D:\Eboba\ZooApp\Program.tests\obj\Debug\net6.0\Program.tests.AssemblyInfo.cs
+D:\Eboba\ZooApp\Program.tests\obj\Debug\net6.0\Program.tests.csproj.CoreCompileInputs.cache

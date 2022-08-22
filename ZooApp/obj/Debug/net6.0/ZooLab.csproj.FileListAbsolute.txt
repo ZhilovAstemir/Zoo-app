@@ -1,0 +1,12 @@
+D:\Eboba\ZooApp\ZooApp\obj\Debug\net6.0\ZooLab.csproj.AssemblyReference.cache
+D:\Eboba\ZooApp\ZooApp\obj\Debug\net6.0\ZooLab.GeneratedMSBuildEditorConfig.editorconfig
+D:\Eboba\ZooApp\ZooApp\obj\Debug\net6.0\ZooLab.AssemblyInfoInputs.cache
+D:\Eboba\ZooApp\ZooApp\obj\Debug\net6.0\ZooLab.AssemblyInfo.cs
+D:\Eboba\ZooApp\ZooApp\obj\Debug\net6.0\ZooLab.csproj.CoreCompileInputs.cache
+D:\Eboba\ZooApp\ZooApp\bin\Debug\net6.0\ZooLab.deps.json
+D:\Eboba\ZooApp\ZooApp\bin\Debug\net6.0\ZooLab.dll
+D:\Eboba\ZooApp\ZooApp\bin\Debug\net6.0\ref\ZooLab.dll
+D:\Eboba\ZooApp\ZooApp\bin\Debug\net6.0\ZooLab.pdb
+D:\Eboba\ZooApp\ZooApp\obj\Debug\net6.0\ZooLab.dll
+D:\Eboba\ZooApp\ZooApp\obj\Debug\net6.0\ref\ZooLab.dll
+D:\Eboba\ZooApp\ZooApp\obj\Debug\net6.0\ZooLab.pdb

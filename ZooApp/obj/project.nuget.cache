@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "D0S1aAZM7bAp3yq8T7KvkcJnbh/T44t9x3HF8zpsNa6SoDNC0U8WktrQmn0S3G1nw1NNpkErrAEwXLyGO7LCRw==",
+  "success": true,
+  "projectFilePath": "D:\\Eboba\\ZooApp\\ZooApp\\ZooLab.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\zigmu\\.nuget\\packages\\fluentvalidation\\11.2.0\\fluentvalidation.11.2.0.nupkg.sha512"
+  ],
+  "logs": []
+}

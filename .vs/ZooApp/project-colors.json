@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "55d67b5f-34a8-4ef8-b668-993b69f7d5e2": {
+      "ProjectGuid": "55d67b5f-34a8-4ef8-b668-993b69f7d5e2",
+      "DisplayName": "ZooLab",
+      "ColorIndex": 0
+    },
+    "840550dc-bc6e-4aeb-9ff7-53e8e925dab4": {
+      "ProjectGuid": "840550dc-bc6e-4aeb-9ff7-53e8e925dab4",
+      "DisplayName": "ZooLab.tests",
+      "ColorIndex": 1
+    },
+    "ebce11a9-f080-4a1b-9ecd-27ae9062a1e5": {
+      "ProjectGuid": "ebce11a9-f080-4a1b-9ecd-27ae9062a1e5",
+      "DisplayName": "ZooAppConsole",
+      "ColorIndex": 2
+    },
+    "b10f2c20-f2e4-4888-9f5b-96a60ba0d01c": {
+      "ProjectGuid": "b10f2c20-f2e4-4888-9f5b-96a60ba0d01c",
+      "DisplayName": "ZooApp.Console",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}
